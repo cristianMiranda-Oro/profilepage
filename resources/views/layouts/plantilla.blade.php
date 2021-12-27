@@ -78,7 +78,7 @@
 
             <div class="col-sm-3">
 
-                <img src="images/cristian.png" width="100" alt="profile image">
+                <img src="images/cristian.png" width="150" alt="profile image">
 
             </div>
 
