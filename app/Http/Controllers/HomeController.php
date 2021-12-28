@@ -7,9 +7,9 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     //
-    public function resume()
+    public function index()
     {
-        return view('menus.resume');
+        return view('menus.index');
     }
     public function proyectos()
     {

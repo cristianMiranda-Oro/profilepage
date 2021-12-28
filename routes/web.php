@@ -13,8 +13,8 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', [HomeController::class, 'resume']);
-Route::get('proyectos/', [HomeController::class, 'proyectos']);
+Route::get('/', [HomeController::class, 'index']);
+Route::get('proyect/', [HomeController::class, 'proyectos']);
 Route::get('conocimientos/', [HomeController::class, 'conocimientos']);
 Route::get('educacion/', [HomeController::class, 'educacion']);
 
